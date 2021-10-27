@@ -15,7 +15,8 @@ You are welcome to participate in this study, all you need is a VR headset and c
 3. Connect and power on your VR headset and controllers.  For the Oculus Quest / Quest2 please connect to PC via USB or Airlink
 4. Run the extracted file called "Phil Research VR Core.exe"  
 5. Don your headset and the application should start immediately displaying the Unity splash screen
-6. Complete teh research from within VR
+6. Particiapte in the research completely from within VR
+7. When the application ends you can remove the temporary directory  
 
 Thanks for your interest in this research.  If you wish to receive a copy of the submitted thesis please send an email to my address below.  Expected to be available in early 2022.
 
