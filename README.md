@@ -1,4 +1,4 @@
-# Thesis
+# VR User Experience Thesis Research
 
 This release is a Unity OpenXR VR application to support the MSc thesis of Phillip Ryan.  It tests the user experience of VR users by capturing telemetry data and self-reported questionnaire data. 
 
