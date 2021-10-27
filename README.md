@@ -18,6 +18,9 @@ You are welcome to participate in this study, all you need is a VR headset and c
 6. Particiapte in the research completely from within VR
 7. When the application ends you can remove the temporary directory  
 
-Thanks for your interest in this research.  If you wish to receive a copy of the submitted thesis please send an email to my address below.  Expected to be available in early 2022.
+Feel free to rerun the application and get your friends or family to participate, we ask for optional demographic data so it would be great to get a diverse set of participants!  
+
+
+Thanks for your interest in this research, if you wish to receive a copy of the thesis please send me an email - expected to be available in early 2022.
 
 Phillip Ryan X00169673@myTUDublin.ie
