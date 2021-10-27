@@ -12,7 +12,7 @@ You are welcome to participate in this study, all you need is a VR headset and c
  
 1. Download the Zip file [UnityPlayer.zip](https://github.com/x00169673/Thesis/releases/download/v0.3/UnityPlayer.zip) located in the Releases [directory](https://github.com/x00169673/Thesis/releases)
 2. Extract the files to a suitable temporary directory
-3. Connect and power on your VR headset and controllers.  Not for the Oculus Quest / Quest2 connect to PC via USB or Airlink
+3. Connect and power on your VR headset and controllers.  For the Oculus Quest / Quest2 please connect to PC via USB or Airlink
 4. Run the extracted file called "Phil Research VR Core.exe"  
 5. Don your headset and the application should start immediately displaying the Unity splash screen
 6. Complete teh research from within VR
