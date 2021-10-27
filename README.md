@@ -7,6 +7,8 @@ You are welcome to participate in this study.  All you need is a VR headset and 
 Requirements:
 - Windows PC
 - VR equipment - Windows Mixed Reality, Oculus or SteamVR compatible headset
+
+Steps to Complete
  
 1. Download the Zip file [UnityPlayer.zip](https://github.com/x00169673/Thesis/releases/download/v0.3/UnityPlayer.zip) located in the Releases [directory](https://github.com/x00169673/Thesis/releases)
 2. Extract the files to a suitable temporary directory
