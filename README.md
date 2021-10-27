@@ -20,7 +20,8 @@ You are welcome to participate in this study, all you need is a VR headset and c
 
 Feel free to rerun the application and get your friends or family to participate, we ask for optional demographic data so it would be great to get a diverse set of participants!  
 
+**What happens next**
+When you run through the VR tests the telemetry data and your answers to the questionnaire is sent to me for statistical analysis and further research.  The outcome of the research will be presented in my Master of Science thesis.  If you wish to receive a copy of the thesis when it is available in 2022, please send me an email.
 
-Thanks for your interest in this research, if you wish to receive a copy of the thesis please send me an email - expected to be available in early 2022.
-
+Thanks,
 Phillip Ryan X00169673@myTUDublin.ie
