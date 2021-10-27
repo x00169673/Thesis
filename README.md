@@ -4,11 +4,11 @@ This release is a Unity OpenXR VR application to support the MSc thesis of Phill
 
 You are welcome to participate in this study.  All you need is a VR headset and controllers connected via cable or airlink to your PC and follow the steps below:
 
-Requirements:
+**Requirements:**
 - Windows PC
 - VR equipment - Windows Mixed Reality, Oculus or SteamVR compatible headset
 
-Steps to Complete
+**Steps to Complete**
  
 1. Download the Zip file [UnityPlayer.zip](https://github.com/x00169673/Thesis/releases/download/v0.3/UnityPlayer.zip) located in the Releases [directory](https://github.com/x00169673/Thesis/releases)
 2. Extract the files to a suitable temporary directory
