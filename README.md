@@ -2,7 +2,7 @@
 
 This release is a Unity OpenXR VR application to support the MSc thesis of Phillip Ryan.  It tests the user experience of VR users by capturing telemetry data and self-reported questionnaire data. 
 
-You are welcome to participate in this study, all you need is a VR headset and controllers:
+You are welcome to participate in this study, all you need is a VR headset and controllers.  There are no appstore purchases or sideloading required, sinply follow the steps below:
 
 **Requirements:**
 - Windows PC
