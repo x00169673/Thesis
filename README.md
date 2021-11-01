@@ -7,6 +7,7 @@ You are welcome to participate in this study, all you need is a VR headset and c
 **Requirements:**
 - Windows PC
 - VR equipment - Windows Mixed Reality, Oculus or SteamVR compatible headset
+For note - there is not app install or special permissions required to run this app. 
 
 **Steps to Complete**
  
